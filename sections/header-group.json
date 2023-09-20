@@ -59,7 +59,7 @@
             "richtext_top": "",
             "image_caption_top": "",
             "image_link_top": "",
-            "menu_1": "main-menu-1",
+            "menu_1": "main-menu",
             "menu_1_link": "",
             "menu_2": "",
             "menu_2_link": "",
@@ -78,7 +78,26 @@
             "richtext_top": "",
             "image_caption_top": "",
             "image_link_top": "",
-            "menu_1": "main-menu-1",
+            "menu_1": "main-menu",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "322fe878-9ba4-41f1-bf7a-db2559d65e81": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
             "menu_1_link": "",
             "menu_2": "",
             "menu_2_link": "",
@@ -95,7 +114,8 @@
       "block_order": [
         "column_2",
         "8aaff99d-97d5-413d-a549-49f1b508a337",
-        "8fd6f1f7-4edb-48ba-965a-eead4a783914"
+        "8fd6f1f7-4edb-48ba-965a-eead4a783914",
+        "322fe878-9ba4-41f1-bf7a-db2559d65e81"
       ],
       "custom_css": [
 
