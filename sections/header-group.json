@@ -34,26 +34,6 @@
     "mega_menu_1": {
       "type": "mega-menu-1",
       "blocks": {
-        "column_1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "richtext_top": "",
-            "image_caption_top": "",
-            "image_link_top": "",
-            "menu_1": "brands",
-            "menu_1_link": "shopify:\/\/pages\/brands",
-            "menu_2": "",
-            "menu_2_link": "",
-            "menu_3": "",
-            "menu_3_link": "",
-            "menu_4": "",
-            "menu_4_link": "",
-            "image_caption_bottom": "",
-            "image_link_bottom": "",
-            "richtext_bottom": ""
-          }
-        },
         "column_2": {
           "type": "column",
           "settings": {
@@ -113,7 +93,6 @@
         }
       },
       "block_order": [
-        "column_1",
         "column_2",
         "8aaff99d-97d5-413d-a549-49f1b508a337",
         "8fd6f1f7-4edb-48ba-965a-eead4a783914"
