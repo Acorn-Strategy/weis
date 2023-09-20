@@ -34,29 +34,10 @@
     "mega_menu_1": {
       "type": "mega-menu-1",
       "blocks": {
-        "column_0": {
-          "type": "column",
-          "settings": {
-            "richtext_top": "<p>Add description, images, menus and links to your mega menu<\/p>",
-            "image_caption_top": "",
-            "image_link_top": "",
-            "menu_1": "brands",
-            "menu_1_link": "shopify:\/\/pages\/brands",
-            "menu_2": "brands",
-            "menu_2_link": "shopify:\/\/pages\/brands",
-            "menu_3": "",
-            "menu_3_link": "shopify:\/\/collections",
-            "menu_4": "",
-            "menu_4_link": "",
-            "image_caption_bottom": "",
-            "image_link_bottom": "",
-            "richtext_bottom": ""
-          }
-        },
         "column_1": {
           "type": "column",
           "settings": {
-            "richtext_top": "<p>A column with no settings can be used as a spacer<\/p>",
+            "richtext_top": "",
             "image_caption_top": "",
             "image_link_top": "",
             "menu_1": "main-menu",
@@ -131,11 +112,13 @@
         }
       },
       "block_order": [
-        "column_0",
         "column_1",
         "column_2",
         "column_3",
         "column_4"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "parent": "Apparel"
