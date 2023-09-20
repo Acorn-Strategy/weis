@@ -1,0 +1,113 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-team-template",
+      "blocks": {
+        "block-1": {
+          "type": "employee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pic3.jpg",
+            "title": "Austin Soto",
+            "job_title": "Founder and CEO",
+            "description": "<p>Entrepreneur hooked on design, tech and heavy metal.<\/p>",
+            "twitter": "Shopify"
+          }
+        },
+        "block-2": {
+          "type": "employee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pic4.jpg",
+            "title": "Monica Marshal",
+            "job_title": "Engineering Lead",
+            "description": "<p>Problem solver who loves anything from the 90s.<\/p>",
+            "twitter": "Shopify"
+          }
+        },
+        "block-3": {
+          "type": "employee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pic8_6854c2eb-765c-40e2-8a4c-983341b2d8be.jpg",
+            "title": "Flora Ross",
+            "job_title": "Marketing Director",
+            "description": "<p>Business minded, can't resist classic rock. <\/p>",
+            "twitter": "Shopify"
+          }
+        },
+        "c2916d79-10e0-4d88-9073-3c9809417554": {
+          "type": "employee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pic2.jpg",
+            "title": "Camille Phillips",
+            "job_title": "Senior Developer",
+            "description": "<p>Usually coding, always listening to upbeat pop.<\/p>",
+            "twitter": "Shopify"
+          }
+        },
+        "981c65f1-389a-4509-98d2-bb0003946441": {
+          "type": "employee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pic5.jpg",
+            "title": "Alvin Ford",
+            "job_title": "Product Specialist",
+            "description": "<p>Powered by research and lots of rock and roll.<\/p>",
+            "twitter": "Shopify"
+          }
+        },
+        "2a321c82-8102-4eae-886c-6ddaf5514153": {
+          "type": "employee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pic6.jpg",
+            "title": "Sylvia Hart",
+            "job_title": "Retail Manager",
+            "description": "<p>Experience creator obsessed with everything indie.<\/p>",
+            "twitter": "Shopify"
+          }
+        },
+        "7582eb3a-7e31-459b-92e1-9f42ae5d049c": {
+          "type": "employee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pic7.jpg",
+            "title": "Lynne Romero",
+            "job_title": "Social Media Expert",
+            "description": "<p>Creative strategist, R&B enthusiast.<\/p>",
+            "twitter": "Shopify"
+          }
+        },
+        "d031c886-9de6-41ef-a54a-51ce8af51640": {
+          "type": "employee",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pic1.jpg",
+            "title": "Lily",
+            "job_title": "Chief Dog",
+            "description": "<p>Loves neck scratches, milk bones and reggae.<\/p>",
+            "twitter": "Shopify"
+          }
+        }
+      },
+      "block_order": [
+        "block-1",
+        "block-2",
+        "block-3",
+        "c2916d79-10e0-4d88-9073-3c9809417554",
+        "981c65f1-389a-4509-98d2-bb0003946441",
+        "2a321c82-8102-4eae-886c-6ddaf5514153",
+        "7582eb3a-7e31-459b-92e1-9f42ae5d049c",
+        "d031c886-9de6-41ef-a54a-51ce8af51640"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/team-feet.jpg",
+        "image_position": "right",
+        "title": "An amazing group of people are the heart and soul of this phenomenal brand!",
+        "text": "<p>(plus Lily, our office pug :))<\/p>",
+        "text_position": "center",
+        "employee_per_row": 4,
+        "member_color": "#fff",
+        "member_accent_color": "#1e1e1e",
+        "member_overlay_color": "#c79f5c"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

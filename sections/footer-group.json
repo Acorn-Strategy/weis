@@ -1,0 +1,60 @@
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer_0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Wei_s_Logo-01_1.png",
+            "text_align": "left",
+            "social_icons_footer": false
+          }
+        },
+        "footer_1": {
+          "type": "link_list",
+          "settings": {
+            "menu": "about-us",
+            "social_icons_footer": false
+          }
+        },
+        "footer_2": {
+          "type": "link_list",
+          "settings": {
+            "menu": "policies",
+            "social_icons_footer": false
+          }
+        },
+        "a24d7a7e-332a-48b2-8578-e8d6cf88c409": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Subscribe Today!",
+            "newsletter_text": "",
+            "show_firstname": false,
+            "show_lastname": false,
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "footer_0",
+        "footer_1",
+        "footer_2",
+        "a24d7a7e-332a-48b2-8578-e8d6cf88c409"
+      ],
+      "settings": {
+        "copyright_text": "",
+        "display_designed_by": true,
+        "display_payment_methods": true,
+        "enable_follow_on_shop": false,
+        "show_locale_selector": true,
+        "show_currency_selector": true
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

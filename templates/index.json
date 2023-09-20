@@ -1,0 +1,391 @@
+{
+  "sections": {
+    "dfe212f8-ad77-415a-bced-7b90c22c1584": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16823768482048__dfe212f8-ad77-415a-bced-7b90c22c1584-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Work_Wear_23-62_3c053ca4-dc25-4b0e-8315-7d6b331f6fc8.jpg",
+            "pretext": "",
+            "title": "Work Wear For All Seasons",
+            "subtitle": "<p>Prioritize safety without sacrificing comfort this autumn. Get the best work wear and FR from top brands like Ariat, Carhartt, Wrangler Work.<\/p>",
+            "button1": "Shop Now",
+            "button1_link": "shopify:\/\/collections\/work-wear",
+            "button1_style": "global-button--banner-highlighted",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "left",
+            "text_align": "left",
+            "caption_content_background": "original"
+          }
+        },
+        "template--16823768482048__dfe212f8-ad77-415a-bced-7b90c22c1584-image-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "pretext": "",
+            "title": "Your headline",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "original"
+          }
+        }
+      },
+      "block_order": [
+        "template--16823768482048__dfe212f8-ad77-415a-bced-7b90c22c1584-image-1",
+        "template--16823768482048__dfe212f8-ad77-415a-bced-7b90c22c1584-image-2"
+      ],
+      "settings": {
+        "wide_display": true,
+        "slideshow_text_animation": "fadeInDown",
+        "slideshow_animation": "fade",
+        "slideshow_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "rgba(0,0,0,0)",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16484995464c53a671": {
+      "type": "featured-text",
+      "settings": {
+        "title": "Since 1956, spanning over three generations.",
+        "content": "<p>One of the longest standing independent family businesses in the region, we have withstood the test of time because we represent the values of Albertans; hard work, humility, and family.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "regular_text",
+        "text_alignment": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "447fd545-a492-42c0-a42d-43f67a44440a": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "9e5f171c-e60e-48c7-942f-e19d498b72f7": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16823768482048__9e5f171c-e60e-48c7-942f-e19d498b72f7-collection-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "western-wear",
+            "image": "shopify:\/\/shop_images\/wrangler-mens-shirt-long-sleeve-western-dress-snap-dobby-stripe-75214bk-775295.jpg"
+          }
+        },
+        "template--16823768482048__9e5f171c-e60e-48c7-942f-e19d498b72f7-collection-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "work-wear",
+            "image": "shopify:\/\/shop_images\/ariat-work-womens-bib-overall-rebar-duracanvas-stretch-insulated-10036669-10036685-680861.jpg"
+          }
+        },
+        "template--16823768482048__9e5f171c-e60e-48c7-942f-e19d498b72f7-collection-3": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "casual-wear",
+            "image": "shopify:\/\/shop_images\/image1-min_0a7a9f15-20fc-49e4-86a8-b533500d0acb.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--16823768482048__9e5f171c-e60e-48c7-942f-e19d498b72f7-collection-1",
+        "template--16823768482048__9e5f171c-e60e-48c7-942f-e19d498b72f7-collection-2",
+        "template--16823768482048__9e5f171c-e60e-48c7-942f-e19d498b72f7-collection-3"
+      ],
+      "settings": {
+        "title": "",
+        "align_height": false,
+        "collection_height": 150,
+        "frontpage_collections_per_row": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1648498708f7ae32f4": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "wide_display": true,
+        "aspect_ratio": "16:9",
+        "autoplay": false,
+        "autoloop": false,
+        "mute_video": false,
+        "show_controls": false,
+        "video_dark_overlay": false,
+        "iframe_video": "https:\/\/www.youtube.com\/watch?v=IeY9iyyn0Ug",
+        "html5_video": "",
+        "display_text_over_video": false,
+        "preheading": "",
+        "heading": "Meet the new HX",
+        "subheading": "<p>Do-it-all headphones for work and play<\/p>",
+        "button1_label": "Watch video",
+        "button1_link": "",
+        "button1_style": "global-button--banner",
+        "button2_label": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "center",
+        "text_align": "center",
+        "caption_content_background": "original",
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16312882809e6a78af": {
+      "type": "featured-product",
+      "blocks": {
+        "16312882809e6a78af-0": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16312882809e6a78af-1": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "16312882809e6a78af-3": {
+          "type": "form",
+          "settings": {
+          }
+        },
+        "6891be5e-d432-4251-8a13-55ac6b16a67a": {
+          "type": "collapsible-tab",
+          "settings": {
+            "collapsible_tab_heading": "Materials",
+            "collapsible_tab_text": "<p>Lambskin leather. Memory foam cushions. An ergonomic pressure-relieving headband that fits different types of head. All brought together by a lightweight aluminium frame. These versatile over-ear headphones give you cocoon-like comfort that lets you listen all day (and night).<\/p>"
+          }
+        },
+        "f9af31a4-3ae9-4935-9931-3391e3e2e7aa": {
+          "type": "collapsible-tab",
+          "settings": {
+            "collapsible_tab_heading": "Specs",
+            "collapsible_tab_text": "<p><em>Frequency Range<\/em>: 20-22,000 Hz<\/p><p>Adaptive Active Noise Cancellation<br\/>Transparency mode<br\/>Electro-dynamic driver w\/ Neodymium magnets, 40 mm diameter<br\/>95dB @ 1kHz \/ 1 mW <br\/>Customizable Sound EQ<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16312882809e6a78af-0",
+        "16312882809e6a78af-1",
+        "16312882809e6a78af-3",
+        "6891be5e-d432-4251-8a13-55ac6b16a67a",
+        "f9af31a4-3ae9-4935-9931-3391e3e2e7aa"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "beoplay-hx",
+        "wide_display": true,
+        "media_position": "is-flex-row",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "product_thumbs": false,
+        "gallery_arrows": false,
+        "enable_product_lightbox": true,
+        "activate_zoom": false,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "6559a0d5-725e-4f28-abb1-1565dd32cbab": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Arrivals",
+        "collection_description": true,
+        "collection": "new-arrivals-weis",
+        "collection_style": "slider",
+        "products_per": 7,
+        "products_limit": 7,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image-text-1": {
+      "type": "image-text",
+      "blocks": {
+        "block-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_6670c35f-a658-4e6a-877e-0aef5c016574.jpg",
+            "title": "Kid's Carhartt",
+            "text": "<p>Start them while they're young! Shop the best of our infant, toddler, and kid's Carhartt selection today.<\/p>",
+            "button_label": "Shop Kid's Carhartt",
+            "link": "shopify:\/\/collections\/baby-clothing",
+            "bg_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "block-1"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row-reverse",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ced1e672-aa74-4561-902c-c055a5a37a6d": {
+      "type": "image-text",
+      "blocks": {
+        "template--16823768482048__ced1e672-aa74-4561-902c-c055a5a37a6d-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wrangler-mens-cowboy-cut-sherpa-lined-112335724-261692.jpg",
+            "title": "Central Alberta's Favourite Work & Western Wear Store",
+            "text": "<p>Your local Red Deer family owned and operated western and work wear store, with legendary selection since 1956, is now available online!<\/p>",
+            "button_label": "Shop Wrangler",
+            "link": "shopify:\/\/collections\/wrangler",
+            "bg_color": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16823768482048__ced1e672-aa74-4561-902c-c055a5a37a6d-image-1"
+      ],
+      "settings": {
+        "wide_display": false,
+        "featured_links_per_row": "1",
+        "frontpage_text_align": "left",
+        "frontpage_image_position": "row",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "6de97124-acb0-401c-b801-0852adf41473": {
+      "type": "logo-bar",
+      "blocks": {
+        "template--16823768482048__6de97124-acb0-401c-b801-0852adf41473-logo_image-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/600c54eaf3bd5c0004b0eaeb.png",
+            "link": "shopify:\/\/collections\/carhartt"
+          }
+        },
+        "template--16823768482048__6de97124-acb0-401c-b801-0852adf41473-logo_image-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Red_Wing_Shoes-logo-3A6547C51A-seeklogo.com.png",
+            "link": "shopify:\/\/collections\/red-wing"
+          }
+        },
+        "template--16823768482048__6de97124-acb0-401c-b801-0852adf41473-logo_image-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ariat-Logo.png",
+            "link": "shopify:\/\/collections\/ariat"
+          }
+        },
+        "template--16823768482048__6de97124-acb0-401c-b801-0852adf41473-logo_image-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6012ad7245200400048cf238.png",
+            "link": "shopify:\/\/collections\/wrangler-work"
+          }
+        },
+        "005b42f4-41f8-481e-b640-f270d145e745": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cinch_Championships_the_QC_RGB_9134e70a-18aa-47a0-a486-b320d84593be.png",
+            "link": "shopify:\/\/collections\/cinch"
+          }
+        },
+        "7e6e4032-86cb-4bd4-b376-ac05fa3595ea": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Boulet_Boots_Logo_text.png",
+            "link": "shopify:\/\/collections\/boulet"
+          }
+        }
+      },
+      "block_order": [
+        "template--16823768482048__6de97124-acb0-401c-b801-0852adf41473-logo_image-1",
+        "template--16823768482048__6de97124-acb0-401c-b801-0852adf41473-logo_image-2",
+        "template--16823768482048__6de97124-acb0-401c-b801-0852adf41473-logo_image-3",
+        "template--16823768482048__6de97124-acb0-401c-b801-0852adf41473-logo_image-4",
+        "005b42f4-41f8-481e-b640-f270d145e745",
+        "7e6e4032-86cb-4bd4-b376-ac05fa3595ea"
+      ],
+      "settings": {
+        "title": "Shop By Brands",
+        "layout": "slider",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f01d5f10-811b-4298-bcde-5507a9889adf": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": true,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "58dab569-6b81-4f84-b5ae-9e476ad45974": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/moon48_4f136193-ec87-4726-bae5-7583ef163fba_500x_copy.jpg",
+        "pretext": "<p>Our Story<\/p>",
+        "title": "Wei's - Our Story",
+        "subtitle": "<p>Since 1956, spanning over three generations, Wei’s Western Wearhas been a retail institution in Central Alberta.<\/p>",
+        "button1": "Read More",
+        "button1_link": "#",
+        "button1_style": "global-button--banner",
+        "button2": "",
+        "button2_link": "",
+        "button2_style": "global-button--banner",
+        "text_position": "left",
+        "text_align": "left",
+        "caption_content_background": "darken_bg",
+        "mobile_image_crop": false,
+        "mobile_text_below_image": true,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "dfe212f8-ad77-415a-bced-7b90c22c1584",
+    "16484995464c53a671",
+    "447fd545-a492-42c0-a42d-43f67a44440a",
+    "9e5f171c-e60e-48c7-942f-e19d498b72f7",
+    "1648498708f7ae32f4",
+    "16312882809e6a78af",
+    "6559a0d5-725e-4f28-abb1-1565dd32cbab",
+    "image-text-1",
+    "ced1e672-aa74-4561-902c-c055a5a37a6d",
+    "6de97124-acb0-401c-b801-0852adf41473",
+    "f01d5f10-811b-4298-bcde-5507a9889adf",
+    "58dab569-6b81-4f84-b5ae-9e476ad45974"
+  ]
+}

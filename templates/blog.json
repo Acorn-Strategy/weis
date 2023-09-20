@@ -1,0 +1,43 @@
+{
+  "sections": {
+    "main": {
+      "type": "blog-template",
+      "blocks": {
+        "22afd078-1ce4-4984-938f-997cde9c316a": {
+          "type": "search",
+          "settings": {
+          }
+        },
+        "48f464c4-a85a-4f56-beba-dc50416ed228": {
+          "type": "recent_posts",
+          "settings": {
+            "blog_post_count": "10"
+          }
+        }
+      },
+      "block_order": [
+        "22afd078-1ce4-4984-938f-997cde9c316a",
+        "48f464c4-a85a-4f56-beba-dc50416ed228"
+      ],
+      "settings": {
+        "wide_display": true,
+        "image": "shopify:\/\/shop_images\/blog-thinner.jpg",
+        "subtitle": "Discover the latest in audio technology",
+        "caption_content_background": "original",
+        "blog_posts_per_row": 2,
+        "blog_posts_per_page": 4,
+        "blog_tags": true,
+        "blog_author": false,
+        "read_time": true,
+        "blog_date": false,
+        "blog_comment_count": false,
+        "read_more_link": false,
+        "excerpt_display": "full_excerpt",
+        "toggle": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "wrapper": "div.shopify-section-wrapper.section",
+  "sections": {
+    "sidebar": {
+      "type": "product-sidebar",
+      "disabled": true,
+      "settings": {
+        "toggle": false
+      }
+    },
+    "main": {
+      "type": "product-template",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_gift_card_recipient_form": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+          }
+        },
+        "2ac91b33-086a-43c2-9996-1369fa5646ba": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "text": "Read all our FAQs",
+            "text_alignment": "left",
+            "page": "faq"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "form",
+        "description",
+        "share",
+        "2ac91b33-086a-43c2-9996-1369fa5646ba"
+      ],
+      "settings": {
+        "product_breadcrumb": true,
+        "media_position": "is-flex-row",
+        "set_product_height": true,
+        "product_height": 500,
+        "video_looping": false,
+        "product_thumbs": true,
+        "gallery_arrows": true,
+        "enable_product_lightbox": true,
+        "activate_zoom": true,
+        "slideshow_speed": 0,
+        "slideshow_animation": "slide",
+        "thumbnail_position": "bottom",
+        "enable_thumbnail_slider": true
+      }
+    },
+    "163129385890fb3236": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1631293709526f3da7": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "163129350207151177": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "collection_description": true,
+        "collection": "new",
+        "collection_style": "grid",
+        "products_per": 3,
+        "products_limit": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1631293720cf358b8e": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 10,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1631293875b10ca579": {
+      "type": "testimonial",
+      "blocks": {
+        "1631293875b10ca579-1": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "testimonial": "<p>My partner bought a standup speaker for my most recent birthday and I absolutely love it. It has great sound control and is not only great for gatherings, but for intimate settings too.<\/p>",
+            "name": "Sam M.",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "darken_bg"
+          }
+        },
+        "1631293875b10ca579-0": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "testimonial": "<p>I recently bought a pair of in-ear headphones and I am so impressed by the quality of sound and materials. They fit my ear very nicely and are comfortable. Highly recommend.<\/p>",
+            "name": "Todd J.",
+            "store_name": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "darken_bg"
+          }
+        }
+      },
+      "block_order": [
+        "1631293875b10ca579-1",
+        "1631293875b10ca579-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "wide_display": false,
+        "testimonial_text_animation": "fadeInDown",
+        "testimonial_speed": 6,
+        "activate_adaptiveHeight": false,
+        "mobile_text_below_image": false,
+        "mobile_text_color": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1648507693e72daf6f": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1648507520b1e5892e": {
+      "type": "logo-bar",
+      "blocks": {
+        "1648507520e95e541d-0": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1648507520e95e541d-1": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1648507520e95e541d-2": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1648507520e95e541d-3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1648507520e95e541d-0",
+        "1648507520e95e541d-1",
+        "1648507520e95e541d-2",
+        "1648507520e95e541d-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "layout": "grid",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1631294801bfccdf0e": {
+      "type": "divider",
+      "settings": {
+        "divider_spacing": 20,
+        "divider_border": false,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "sidebar",
+    "main",
+    "163129385890fb3236",
+    "1631293709526f3da7",
+    "163129350207151177",
+    "1631293720cf358b8e",
+    "1631293875b10ca579",
+    "1648507693e72daf6f",
+    "1648507520b1e5892e",
+    "1631294801bfccdf0e"
+  ]
+}
