@@ -69,10 +69,10 @@
             "button1_style": "global-button--banner",
             "button2": "",
             "button2_link": "",
-            "button2_style": "global-button--banner",
+            "button2_style": "global-button--banner-text",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "translucent_text_box"
+            "caption_content_background": "darken_bg"
           }
         }
       },
