@@ -162,65 +162,8 @@
             "richtext_top": "<p>A column with no settings can be used as a spacer<\/p>",
             "image_caption_top": "",
             "image_link_top": "",
-            "menu_1": "",
-            "menu_1_link": "",
-            "menu_2": "",
-            "menu_2_link": "",
-            "menu_3": "",
-            "menu_3_link": "",
-            "menu_4": "",
-            "menu_4_link": "",
-            "image_caption_bottom": "",
-            "image_link_bottom": "",
-            "richtext_bottom": ""
-          }
-        },
-        "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-3": {
-          "type": "column",
-          "settings": {
-            "richtext_top": "",
-            "image_caption_top": "",
-            "image_link_top": "",
-            "menu_1": "",
-            "menu_1_link": "",
-            "menu_2": "",
-            "menu_2_link": "",
-            "menu_3": "",
-            "menu_3_link": "",
-            "menu_4": "",
-            "menu_4_link": "",
-            "image_caption_bottom": "",
-            "image_link_bottom": "",
-            "richtext_bottom": ""
-          }
-        },
-        "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-4": {
-          "type": "column",
-          "settings": {
-            "richtext_top": "<p>Link to your collections, sales and even external links<\/p>",
-            "image_caption_top": "",
-            "image_link_top": "",
-            "menu_1": "",
-            "menu_1_link": "",
-            "menu_2": "",
-            "menu_2_link": "",
-            "menu_3": "",
-            "menu_3_link": "",
-            "menu_4": "",
-            "menu_4_link": "",
-            "image_caption_bottom": "",
-            "image_link_bottom": "",
-            "richtext_bottom": ""
-          }
-        },
-        "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-5": {
-          "type": "column",
-          "settings": {
-            "richtext_top": "<p>Add up to five columns<\/p>",
-            "image_caption_top": "",
-            "image_link_top": "",
-            "menu_1": "",
-            "menu_1_link": "",
+            "menu_1": "main-menu",
+            "menu_1_link": "shopify:\/\/collections",
             "menu_2": "",
             "menu_2_link": "",
             "menu_3": "",
@@ -235,10 +178,7 @@
       },
       "block_order": [
         "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-1",
-        "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-2",
-        "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-3",
-        "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-4",
-        "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-5"
+        "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-2"
       ],
       "settings": {
         "parent": ""
