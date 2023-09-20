@@ -36,6 +36,7 @@
       "blocks": {
         "column_1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "richtext_top": "",
             "image_caption_top": "",
@@ -129,6 +130,7 @@
       "blocks": {
         "sections--16829257056512__454d249b-d0cc-4cb6-b4b4-ad4a28bf2736-column-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "richtext_top": "",
             "image_caption_top": "",
@@ -179,6 +181,7 @@
       "blocks": {
         "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "richtext_top": "",
             "image_caption_top": "",
