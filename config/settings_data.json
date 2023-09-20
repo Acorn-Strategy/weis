@@ -1811,5 +1811,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".darken-bg {background-color: rgba(255, 72, 89, 0.3); }"
+    ]
   }
 }
