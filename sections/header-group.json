@@ -5,7 +5,10 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "li.nav-desktop__tier-1-item {padding: 1rem;}"
+        "li.nav-desktop__tier-1-item {padding: 1rem;}",
+        ".top-bar {background: white !important;}",
+        ".cart-container {background: white;}",
+        "a.icon-bag.mini_cart.dropdown_link {background-color: white;}"
       ],
       "settings": {
         "promo_text": "",
