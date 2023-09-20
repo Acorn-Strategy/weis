@@ -159,7 +159,7 @@
         "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-2": {
           "type": "column",
           "settings": {
-            "richtext_top": "<p>A column with no settings can be used as a spacer<\/p>",
+            "richtext_top": "",
             "image_caption_top": "",
             "image_link_top": "",
             "menu_1": "main-menu",
@@ -181,7 +181,7 @@
         "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-2"
       ],
       "settings": {
-        "parent": ""
+        "parent": "New Arrivals"
       }
     }
   },
