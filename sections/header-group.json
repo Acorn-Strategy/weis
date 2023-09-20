@@ -36,7 +36,6 @@
       "blocks": {
         "column_1": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "richtext_top": "",
             "image_caption_top": "",
@@ -72,11 +71,31 @@
             "image_link_bottom": "",
             "richtext_bottom": ""
           }
+        },
+        "8aaff99d-97d5-413d-a549-49f1b508a337": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "footer",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
         }
       },
       "block_order": [
         "column_1",
-        "column_2"
+        "column_2",
+        "8aaff99d-97d5-413d-a549-49f1b508a337"
       ],
       "custom_css": [
 
