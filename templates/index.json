@@ -6,7 +6,7 @@
         "template--16823768482048__dfe212f8-ad77-415a-bced-7b90c22c1584-image-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Work_Wear_23-62_3c053ca4-dc25-4b0e-8315-7d6b331f6fc8.jpg",
+            "image": "shopify:\/\/shop_images\/Work_Wear-095.jpg",
             "pretext": "",
             "title": "Work Wear For All Seasons",
             "subtitle": "<p>Prioritize safety without sacrificing comfort this autumn. Get the best work wear and FR from top brands like Ariat, Carhartt, Wrangler Work.<\/p>",
@@ -16,8 +16,8 @@
             "button2": "",
             "button2_link": "",
             "button2_style": "global-button--banner",
-            "text_position": "left",
-            "text_align": "left",
+            "text_position": "right",
+            "text_align": "center",
             "caption_content_background": "original"
           }
         },
@@ -45,11 +45,11 @@
         "template--16823768482048__dfe212f8-ad77-415a-bced-7b90c22c1584-image-2"
       ],
       "settings": {
-        "wide_display": true,
+        "wide_display": false,
         "slideshow_text_animation": "fadeInDown",
         "slideshow_animation": "fade",
         "slideshow_speed": 6,
-        "activate_adaptiveHeight": false,
+        "activate_adaptiveHeight": true,
         "mobile_text_below_image": true,
         "mobile_text_color": "rgba(0,0,0,0)",
         "css_class": "",
