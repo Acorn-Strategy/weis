@@ -90,12 +90,32 @@
             "image_link_bottom": "",
             "richtext_bottom": ""
           }
+        },
+        "8fd6f1f7-4edb-48ba-965a-eead4a783914": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "main-menu-1",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
         }
       },
       "block_order": [
         "column_1",
         "column_2",
-        "8aaff99d-97d5-413d-a549-49f1b508a337"
+        "8aaff99d-97d5-413d-a549-49f1b508a337",
+        "8fd6f1f7-4edb-48ba-965a-eead4a783914"
       ],
       "custom_css": [
 
@@ -109,7 +129,6 @@
       "blocks": {
         "sections--16829257056512__454d249b-d0cc-4cb6-b4b4-ad4a28bf2736-column-1": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "richtext_top": "",
             "image_caption_top": "",
@@ -129,7 +148,6 @@
         },
         "sections--16829257056512__454d249b-d0cc-4cb6-b4b4-ad4a28bf2736-column-2": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "richtext_top": "",
             "image_caption_top": "",
@@ -161,7 +179,6 @@
       "blocks": {
         "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-1": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "richtext_top": "",
             "image_caption_top": "",
@@ -181,7 +198,6 @@
         },
         "sections--16829257056512__3af2fad6-49e2-420f-9396-4c3c65680d20-column-2": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "richtext_top": "",
             "image_caption_top": "",
