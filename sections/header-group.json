@@ -8,7 +8,8 @@
         "li.nav-desktop__tier-1-item {padding: 1rem;}",
         ".top-bar {background: white !important;}",
         ".cart-container {background: white;}",
-        "a.icon-bag.mini_cart.dropdown_link {background-color: white;}"
+        "a.icon-bag.mini_cart.dropdown_link {background-color: white;}",
+        ".main-nav{padding-left: clamp(1rem, -0.152rem + 5.76vw, 6.688rem);padding-right: clamp(1rem, -0.152rem + 5.76vw, 6.688rem);}"
       ],
       "settings": {
         "promo_text": "",
