@@ -1,21 +1,5 @@
 {
   "sections": {
-    "c7b11d27-1052-4034-b642-ec88aa71f85e": {
-      "type": "featured-text",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "title": "{{ collection.title }}",
-        "content": "",
-        "button_label": "",
-        "button_link": "",
-        "text_size": "featured_text",
-        "text_alignment": "center",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "main": {
       "type": "collection-template",
       "custom_css": [
@@ -36,7 +20,6 @@
     }
   },
   "order": [
-    "c7b11d27-1052-4034-b642-ec88aa71f85e",
     "main"
   ]
 }
