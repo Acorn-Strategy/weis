@@ -3,6 +3,24 @@
     "dfe212f8-ad77-415a-bced-7b90c22c1584": {
       "type": "slideshow",
       "blocks": {
+        "469c9fe8-9d46-45e3-9077-66e32b72f759": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/moon57.webp",
+            "pretext": "<p>WEI'S WESTERN WEAR<\/p>",
+            "title": "Legendary Selection Since 1956",
+            "subtitle": "",
+            "button1": "",
+            "button1_link": "",
+            "button1_style": "global-button--banner",
+            "button2": "",
+            "button2_link": "",
+            "button2_style": "global-button--banner-text",
+            "text_position": "center",
+            "text_align": "center",
+            "caption_content_background": "darken_bg"
+          }
+        },
         "template--16823768482048__dfe212f8-ad77-415a-bced-7b90c22c1584-image-1": {
           "type": "image",
           "settings": {
@@ -56,37 +74,19 @@
             "text_align": "center",
             "caption_content_background": "darken_bg"
           }
-        },
-        "469c9fe8-9d46-45e3-9077-66e32b72f759": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/moon57.webp",
-            "pretext": "<p>WEI'S WESTERN WEAR<\/p>",
-            "title": "Legendary Selection Since 1956",
-            "subtitle": "",
-            "button1": "",
-            "button1_link": "",
-            "button1_style": "global-button--banner",
-            "button2": "",
-            "button2_link": "",
-            "button2_style": "global-button--banner-text",
-            "text_position": "center",
-            "text_align": "center",
-            "caption_content_background": "darken_bg"
-          }
         }
       },
       "block_order": [
+        "469c9fe8-9d46-45e3-9077-66e32b72f759",
         "template--16823768482048__dfe212f8-ad77-415a-bced-7b90c22c1584-image-1",
         "template--16823768482048__dfe212f8-ad77-415a-bced-7b90c22c1584-image-2",
-        "d7cd91c3-1e90-4b68-9a39-3d04789a1d2d",
-        "469c9fe8-9d46-45e3-9077-66e32b72f759"
+        "d7cd91c3-1e90-4b68-9a39-3d04789a1d2d"
       ],
       "settings": {
         "wide_display": false,
         "slideshow_text_animation": "fadeInDown",
         "slideshow_animation": "fade",
-        "slideshow_speed": 6,
+        "slideshow_speed": 12,
         "activate_adaptiveHeight": true,
         "mobile_text_below_image": true,
         "mobile_text_color": "rgba(0,0,0,0)",
