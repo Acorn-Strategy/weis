@@ -261,7 +261,7 @@
         "collection_description": true,
         "collection": "new-arrivals-weis",
         "collection_style": "slider",
-        "products_per": 7,
+        "products_per": 5,
         "products_limit": 7,
         "css_class": "",
         "custom_css": ""
