@@ -248,10 +248,10 @@
         "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-5": {
           "type": "column",
           "settings": {
-            "richtext_top": "<p>Add up to five columns<\/p>",
+            "richtext_top": "",
             "image_caption_top": "",
             "image_link_top": "",
-            "menu_1": "",
+            "menu_1": "categories",
             "menu_1_link": "",
             "menu_2": "",
             "menu_2_link": "",
