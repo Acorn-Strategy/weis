@@ -8,7 +8,7 @@
         "li.nav-desktop__tier-1-item {padding: clamp(0rem, -0.203rem + 1.01vw, 1rem);}",
         ".top-bar {background: white !important;}",
         ".cart-container {background: white;}",
-        "ul li:nth-child(5) > a > span {color: #9F1D26;}",
+        "ul li:nth-child(5) > a > span {color: #9f1d26;}",
         "a.icon-bag.mini_cart.dropdown_link {background-color: white;}",
         ".main-nav {padding-left: clamp(1rem, -0.152rem + 5.76vw, 6.688rem); padding-right: clamp(1rem, -0.152rem + 5.76vw, 6.688rem);}"
       ],
@@ -211,12 +211,239 @@
       "settings": {
         "parent": "New Arrivals"
       }
+    },
+    "b5d318f5-dad2-4296-86aa-28602a0618e9": {
+      "type": "mega-menu-4",
+      "blocks": {
+        "sections--16829257056512__b5d318f5-dad2-4296-86aa-28602a0618e9-column-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "richtext_top": "<p>Add description, images, menus and links to your mega menu<\/p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "sections--16829257056512__b5d318f5-dad2-4296-86aa-28602a0618e9-column-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "richtext_top": "<p>A column with no settings can be used as a spacer<\/p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "sections--16829257056512__b5d318f5-dad2-4296-86aa-28602a0618e9-column-3": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "richtext_top": "",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "sections--16829257056512__b5d318f5-dad2-4296-86aa-28602a0618e9-column-4": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "richtext_top": "<p>Link to your collections, sales and even external links<\/p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "sections--16829257056512__b5d318f5-dad2-4296-86aa-28602a0618e9-column-5": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "richtext_top": "<p>Add up to five columns<\/p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        }
+      },
+      "block_order": [
+        "sections--16829257056512__b5d318f5-dad2-4296-86aa-28602a0618e9-column-1",
+        "sections--16829257056512__b5d318f5-dad2-4296-86aa-28602a0618e9-column-2",
+        "sections--16829257056512__b5d318f5-dad2-4296-86aa-28602a0618e9-column-3",
+        "sections--16829257056512__b5d318f5-dad2-4296-86aa-28602a0618e9-column-4",
+        "sections--16829257056512__b5d318f5-dad2-4296-86aa-28602a0618e9-column-5"
+      ],
+      "settings": {
+        "parent": "Accessories"
+      }
+    },
+    "d169a835-70f6-453a-a1cf-68f24c2a99b0": {
+      "type": "mega-menu-5",
+      "blocks": {
+        "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-1": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "<p>Add description, images, menus and links to your mega menu<\/p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-2": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "<p>A column with no settings can be used as a spacer<\/p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-3": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-4": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "<p>Link to your collections, sales and even external links<\/p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        },
+        "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-5": {
+          "type": "column",
+          "settings": {
+            "richtext_top": "<p>Add up to five columns<\/p>",
+            "image_caption_top": "",
+            "image_link_top": "",
+            "menu_1": "",
+            "menu_1_link": "",
+            "menu_2": "",
+            "menu_2_link": "",
+            "menu_3": "",
+            "menu_3_link": "",
+            "menu_4": "",
+            "menu_4_link": "",
+            "image_caption_bottom": "",
+            "image_link_bottom": "",
+            "richtext_bottom": ""
+          }
+        }
+      },
+      "block_order": [
+        "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-1",
+        "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-2",
+        "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-3",
+        "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-4",
+        "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-5"
+      ],
+      "settings": {
+        "parent": "Sale"
+      }
     }
   },
   "order": [
     "header",
     "mega_menu_1",
     "454d249b-d0cc-4cb6-b4b4-ad4a28bf2736",
-    "3af2fad6-49e2-420f-9396-4c3c65680d20"
+    "3af2fad6-49e2-420f-9396-4c3c65680d20",
+    "b5d318f5-dad2-4296-86aa-28602a0618e9",
+    "d169a835-70f6-453a-a1cf-68f24c2a99b0"
   ]
 }
