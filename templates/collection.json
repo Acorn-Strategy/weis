@@ -2,6 +2,9 @@
   "sections": {
     "471fb261-40d3-4ac2-8bd4-f48c87a3892f": {
       "type": "image-with-text-overlay",
+      "custom_css": [
+        "img {height:22rem; object-fit: contain;}"
+      ],
       "settings": {
         "wide_display": false,
         "image": "shopify:\/\/shop_images\/Work_Wear_23-88.jpg",
@@ -26,6 +29,9 @@
     },
     "main": {
       "type": "collection-template",
+      "custom_css": [
+
+      ],
       "settings": {
         "featured_collection_image": false,
         "wide_display": false,
