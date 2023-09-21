@@ -6,7 +6,7 @@
         "469c9fe8-9d46-45e3-9077-66e32b72f759": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/red-image.png",
+            "image": "shopify:\/\/shop_images\/red-weis.png",
             "pretext": "<h3><em><strong>WEI'S WESTERN WEAR<\/strong><\/em><\/h3>",
             "title": "Legendary Selection",
             "subtitle": "<p><em><strong>SINCE 1956<\/strong><\/em><\/p>",
@@ -18,7 +18,7 @@
             "button2_style": "global-button--banner-text",
             "text_position": "center",
             "text_align": "center",
-            "caption_content_background": "darken_bg"
+            "caption_content_background": "original"
           }
         },
         "template--16823768482048__dfe212f8-ad77-415a-bced-7b90c22c1584-image-1": {
