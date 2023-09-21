@@ -83,9 +83,9 @@
         "d7cd91c3-1e90-4b68-9a39-3d04789a1d2d"
       ],
       "custom_css": [
-        "h1 {text-shadow: 1px 1px 2px lightyellow !important; line-height: 4.6rem !important; font-size: 5rem !important;}",
+        "h1,p.headline {text-shadow: 1px 1px 2px lightyellow !important; line-height: 4.6rem !important; font-size: 5rem !important;}",
         "h3 {font-size: 2rem !important; color: white !important;}",
-        "p {font-size: 2rem !important;}"
+        "p {font-size: 2rem !important; line-height: 1rem;}"
       ],
       "settings": {
         "wide_display": false,
