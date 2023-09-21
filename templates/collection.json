@@ -1,28 +1,17 @@
 {
   "sections": {
-    "471fb261-40d3-4ac2-8bd4-f48c87a3892f": {
-      "type": "image-with-text-overlay",
+    "c7b11d27-1052-4034-b642-ec88aa71f85e": {
+      "type": "featured-text",
       "custom_css": [
-        "img {height:22rem; object-fit: contain;}"
+
       ],
       "settings": {
-        "wide_display": false,
-        "image": "shopify:\/\/shop_images\/Work_Wear_23-88.jpg",
-        "pretext": "",
         "title": "{{ collection.title }}",
-        "subtitle": "",
-        "button1": "",
-        "button1_link": "",
-        "button1_style": "global-button--banner",
-        "button2": "",
-        "button2_link": "",
-        "button2_style": "global-button--banner",
-        "text_position": "right",
-        "text_align": "center",
-        "caption_content_background": "original",
-        "mobile_image_crop": false,
-        "mobile_text_below_image": true,
-        "mobile_text_color": "",
+        "content": "",
+        "button_label": "",
+        "button_link": "",
+        "text_size": "featured_text",
+        "text_alignment": "center",
         "css_class": "",
         "custom_css": ""
       }
@@ -47,7 +36,7 @@
     }
   },
   "order": [
-    "471fb261-40d3-4ac2-8bd4-f48c87a3892f",
+    "c7b11d27-1052-4034-b642-ec88aa71f85e",
     "main"
   ]
 }
