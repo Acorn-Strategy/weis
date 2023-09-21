@@ -85,7 +85,7 @@
       "custom_css": [
         "h1,p.headline {text-shadow: 1px 1px 2px lightyellow !important; line-height: 4.6rem !important; font-size: 5rem !important;}",
         "h3 {font-size: 2rem !important; color: white !important;}",
-        "p {font-size: 2rem !important; line-height: 1rem;}"
+        "p {font-size: 2rem !important; line-height: 2rem;}"
       ],
       "settings": {
         "wide_display": false,
