@@ -82,6 +82,9 @@
         "template--16823768482048__dfe212f8-ad77-415a-bced-7b90c22c1584-image-2",
         "d7cd91c3-1e90-4b68-9a39-3d04789a1d2d"
       ],
+      "custom_css": [
+        "h1{text-shadow: 1px 1px 2px lightyellow;}"
+      ],
       "settings": {
         "wide_display": false,
         "slideshow_text_animation": "fadeInDown",
