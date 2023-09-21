@@ -268,6 +268,9 @@
       "block_order": [
         "sections--16829257056512__d169a835-70f6-453a-a1cf-68f24c2a99b0-column-5"
       ],
+      "custom_css": [
+        "ul li:nth-child(5) > a > span {color: #9f1d26;}"
+      ],
       "settings": {
         "parent": "Sale"
       }
