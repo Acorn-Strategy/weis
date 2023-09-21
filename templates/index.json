@@ -83,7 +83,9 @@
         "d7cd91c3-1e90-4b68-9a39-3d04789a1d2d"
       ],
       "custom_css": [
-        "h1{text-shadow: 1px 1px 2px lightyellow;}"
+        "h1 {text-shadow: 1px 1px 2px lightyellow; line-height: 4.6rem; font-size: 5rem;}",
+        "h3 {font-size: 2rem; color: white;}",
+        "p {font-size: 2rem;}"
       ],
       "settings": {
         "wide_display": false,
